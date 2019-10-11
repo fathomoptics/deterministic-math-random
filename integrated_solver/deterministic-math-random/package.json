@@ -1,0 +1,26 @@
+{
+  "name": "deterministic-math-random",
+  "version": "1.0.0",
+  "description": "A random number generator with a repeatable pattern",
+  "main": "deterministic-math-random.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tombaran/lumii-three-api.git"
+  },
+  "keywords": [
+    "lumii"
+  ],
+  "author": "tom@lumiidisplay.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tombaran/lumii-three-api/issues"
+  },
+  "homepage": "http://www.lumiidisplay.com",
+  "dependencies": {},
+  "devDependencies": {},
+  "private": true,
+  "files": [
+    "deterministic-math-random.js",
+    "deterministic-math-random-override.js"
+  ]
+}
