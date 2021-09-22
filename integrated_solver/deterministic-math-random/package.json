@@ -10,12 +10,12 @@
   "keywords": [
     "lumii"
   ],
-  "author": "tom@lumiidisplay.com",
+  "author": "tom@fathomoptics.com",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/tombaran/lumii-three-api/issues"
   },
-  "homepage": "http://www.lumiidisplay.com",
+  "homepage": "http://www.fathomoptics.com",
   "dependencies": {},
   "devDependencies": {},
   "private": true,
