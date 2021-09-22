@@ -5,20 +5,19 @@
   "main": "deterministic-math-random.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tombaran/lumii-three-api.git"
+    "url": "git+ssh://git@github.com/fathomoptics/deterministic-math-random.git"
   },
   "keywords": [
     "lumii"
   ],
   "author": "tom@fathomoptics.com",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tombaran/lumii-three-api/issues"
+    "url": "https://github.com/fathomoptics/deterministic-math-random/issues"
   },
   "homepage": "http://www.fathomoptics.com",
   "dependencies": {},
   "devDependencies": {},
-  "private": true,
   "files": [
     "deterministic-math-random.js",
     "deterministic-math-random-override.js"
